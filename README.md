@@ -1,2 +1,2 @@
 # project
-`JSP` `HTNL` `CSS` `Servlet`
+`JSP` `HTNL` `CSS` `Servlet` `MySQL` `GitHub` `Tomcat`
