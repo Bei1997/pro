@@ -1,7 +1,3 @@
----
-title: project_0905
----
-
 # 專案分享!
 
 slide: https://github.com/Bei1997/project
